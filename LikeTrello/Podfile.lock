@@ -1,0 +1,16 @@
+PODS:
+  - EasyPeasy (1.9.0)
+
+DEPENDENCIES:
+  - EasyPeasy
+
+SPEC REPOS:
+  trunk:
+    - EasyPeasy
+
+SPEC CHECKSUMS:
+  EasyPeasy: 19a84ef8f8bbcf925b9fecc29d1d78b7dab96718
+
+PODFILE CHECKSUM: c148d74a59145340aef4bfa7976d87ae8efc9ec8
+
+COCOAPODS: 1.8.4

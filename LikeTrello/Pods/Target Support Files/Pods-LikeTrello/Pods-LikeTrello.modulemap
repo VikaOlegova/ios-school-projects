@@ -1,0 +1,6 @@
+framework module Pods_LikeTrello {
+  umbrella header "Pods-LikeTrello-umbrella.h"
+
+  export *
+  module * { export * }
+}
